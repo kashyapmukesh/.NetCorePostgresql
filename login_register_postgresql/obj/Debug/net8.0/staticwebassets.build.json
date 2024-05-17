@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E+tbhpSMosW35ONp3w8OXdb3G6t4l4pv1v/Q/EOX/hI=",
+  "Source": "login_register_postgresql",
+  "BasePath": "_content/login_register_postgresql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
